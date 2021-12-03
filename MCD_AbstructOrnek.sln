@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCD_AbstructOrnek", "MCD_AbstructOrnek\MCD_AbstructOrnek.csproj", "{2D813098-7690-4B55-BD39-853244658A6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D813098-7690-4B55-BD39-853244658A6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D813098-7690-4B55-BD39-853244658A6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D813098-7690-4B55-BD39-853244658A6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D813098-7690-4B55-BD39-853244658A6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BC08C0A-B84C-4F05-954D-3E77FC4D2233}
+	EndGlobalSection
+EndGlobal
